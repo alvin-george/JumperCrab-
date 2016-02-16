@@ -37,7 +37,6 @@ class NinethRound: SKScene,SKPhysicsContactDelegate {
     var levelGameAttemptDisplayCount = NSInteger()
     var levelGameAttemptCount = NSInteger()
 
-
     //Audio
     var audioPlayer1 = AVAudioPlayer()
 
